@@ -1,7 +1,7 @@
 {
   "name": "puppeteer-starter",
   "scripts": {
-    "puppet": "node index.js"
+    "cats": "node cats.js"
   },
   "devDependencies": {
     "puppeteer": "^5.5.0"
